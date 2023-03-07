@@ -48,16 +48,12 @@ h1 {
     display: block;
     text-transform: uppercase;
     text-decoration: none;
+    text-align: center;
     color: white;
     font-size: 18px;
     font-weight: bold;
-}
-
-button {
-    display: block;
     width: 100%;    
     border-radius: 5px;
-    border: 0;
     padding: 10px;
 }
 
